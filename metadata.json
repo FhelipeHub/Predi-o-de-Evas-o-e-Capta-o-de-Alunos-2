@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Predição de Evasão e Captação de Alunos",
+  "description": "Plataforma estratégica interativa de ciência de dados para gestão educacional, prevenção de evasão e captação inteligente de estudantes no Brasil.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
